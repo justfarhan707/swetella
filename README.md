@@ -1,4 +1,4 @@
-# Swetella by Sana
+# Sweetelle by Sana
 
 Local, buildless bakery website. Open `index.html` or run `python -m http.server 4173 --bind 127.0.0.1` from `C:\Cake`.
 

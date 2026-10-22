@@ -1,6 +1,6 @@
 # Local SEO setup
 
-Implemented for Swetella by Sana:
+Implemented for Sweetelle by Sana:
 
 - Page title and description focused on home bakery in Mumbai, the Kurla location and custom cake enquiries.
 - Open Graph and Twitter title/description metadata.
@@ -9,7 +9,7 @@ Implemented for Swetella by Sana:
 - Visible Mumbai home bakery and birthday cake content, Chembur/Sion enquiry information, and accessible ordering FAQs.
 - Crawlable internal links to the cake gallery, menu and contact form.
 
-The public domain is still undecided. Once supplied, add an absolute canonical URL, og:url, og:image/twitter:image URLs, an absolute Bakery @id/url/image, and a sitemap.xml containing the canonical homepage URL. Reference the sitemap in robots.txt. Do not use localhost, a dummy domain or URL fragments as sitemap entries.
+Canonical domain: https://sweetellebysana.in/. Absolute canonical and social preview URLs, Bakery @id/url/image/logo/menu, sitemap.xml, and the sitemap reference in robots.txt are configured for this domain. These are local source changes; domain hosting, DNS and search indexing are not verified.
 
 The address currently identifies Kurla, Mumbai only. A full customer-facing business address, postcode, hours, verified Google Business Profile and social profiles have not been provided; do not invent them. The map shows the locality, not an exact bakery pin. Chembur/Sion copy asks visitors to confirm fulfilment arrangements rather than promising delivery.
 
