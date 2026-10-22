@@ -89,5 +89,5 @@ contactForm.addEventListener('submit', event => {
   }
   const phone = String(data.get('phone') || '').trim();
   const text = `Hi Sana! My name is ${name}.${phone ? `\nPhone: ${phone}` : ''}\n\n${message}`;
-  window.open(`https://wa.me/919307809805?text=${encodeURIComponent(text)}`, '_blank', 'noopener,noreferrer');
+  window.open(`https://wa.me/919076240717?text=${encodeURIComponent(text)}`, '_blank', 'noopener,noreferrer');
 });
